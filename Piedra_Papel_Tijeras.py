@@ -23,5 +23,5 @@ print("\n¿Qué estrategia adopta el algoritmo?")
 print("Adopta una 'estrategia mixta' aleatoria.")
 print("Sabe que cualquier jugada predecible (como 'jugar siempre piedra')")
 print("será explotada por un oponente racional. Por lo tanto, la única")
-
 print("jugada 'óptima' es ser impredecible.")
+
