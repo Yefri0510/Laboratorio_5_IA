@@ -1,2 +1,5 @@
-# Laboratorio_5_IA
-En este espacio se adjunta la solución del laboratorio No. 5 para el curso Introducción a la Inteligencia Artificial 8A, Universidad Santo Tomás 2025-2
+# Laboratorio 5
+
+* Yefri Stiven Barrero Solano - 2320392
+* Jose Alejandro Mesa Chaves - 2291048
+* Juan Dvid Becerra Pulido - 2283133
